@@ -1,0 +1,25 @@
+{
+  "name": "adapt-localstorage",
+  "authors": [
+    "Jorge Castrillo"
+  ],
+  "description": "Plugin to implement a localstorage",
+  "main": "/js/adapt-localstorage.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPL",
+  "targetAttribute": "_river_localstorage",
+  "homepage": "https://github.com/jcastrillo/adapt-localstorage",
+  "_release": "624c95c596",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "624c95c5967d6742151c89ce6cd00aefe5d1873c"
+  },
+  "_source": "git://github.com/jcastrillo/adapt-localstorage.git",
+  "_target": "*",
+  "_originalSource": "adapt-localstorage",
+  "_direct": true
+}

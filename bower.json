@@ -1,0 +1,15 @@
+{
+  "name": "adapt-localstorage",
+  "version": "1.0.0",
+  "authors": [
+    "Jorge Castrillo"
+  ],
+  "description": "Plugin to implement a localstorage",
+  "main": "/js/adapt-localstorage.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPL",
+  "targetAttribute": "_river_localstorage"
+}
